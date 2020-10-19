@@ -1,0 +1,39 @@
+#caja{
+    display: flex;
+}
+
+.primeraCaja{
+    font-size: 50px;
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    color:yellow;
+    margin-right: 15px;
+}
+
+.segundaCaja{
+    font-size: 50px;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    color:white;
+    margin-right: 15px;
+}
+
+.terceraCaja{
+    font-size: 50px;
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    color:yellow;
+    margin-right: 15px;
+}
+
+.cuartaCaja{
+    font-size: 50px;
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    color:yellow;
+    margin-right: 15px;
+}
